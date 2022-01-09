@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+#параграф {
+    color: royalblue;
+}
+.list {
+    color: seagreen;
+}
+.list .item {
+    color: violet;
+}
+h3.heading {
+    color: yellow;
+}
+p.heading{
+    color: brown;
+}
